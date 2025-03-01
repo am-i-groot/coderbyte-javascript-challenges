@@ -8,51 +8,82 @@ This repository contains three beginner-friendly JavaScript projects built using
 
 ---
 
-## 🚀 Projects Overview
+## Projects
 
-### 1️⃣ Context API Example
-- **Description**: Uses React Context API to manage and share state between components without prop drilling.
-- **Features**:
-  - Global state management.
-  - Update user details from any component.
-- **Run the Project**:
-  ```sh
-  cd context-api-example
-  npm install
-  npm start
-  ```
+### 1. Context Language Toggle
+**Overview:** A React app that allows users to toggle between different programming languages using the Context API.
 
-### 2️⃣ Tic-Tac-Toe Game
-- **Description**: A simple two-player Tic-Tac-Toe game with turn-based gameplay.
-- **Features**:
-  - Click-based gameplay.
-  - Displays game winner.
-  - Restart button.
-- **Run the Project**:
-  ```sh
-  cd tic-tac-toe
-  npm install
-  npm start
-  ```
+**Technologies Used:**
+- React.js
+- Context API
+- Hooks (useState, useContext)
 
-### 3️⃣ Todo App
-- **Description**: A basic to-do list with CRUD operations.
-- **Features**:
-  - Add, mark complete, and delete tasks.
-  - Interactive UI.
-- **Run the Project**:
-  ```sh
-  cd todo-app
-  npm install
-  npm start
-  ```
+**Features:**
+- Supports toggling between JavaScript and Python.
+- Uses Context API for global state management.
+- Dynamically updates displayed language.
+
+**Run the Project:**
+```sh
+cd context-language-toggle
+npm install
+npm start
+```
 
 ---
 
-## 📌 Installation Guide
-1. Clone the repository:
+### 2. Tic-Tac-Toe Game
+**Overview:** A classic Tic-Tac-Toe game built using React, allowing two players to take turns making moves.
+
+**Technologies Used:**
+- React.js
+- useState Hook
+- Conditional Rendering
+
+**Features:**
+- Two-player gameplay.
+- Win detection logic.
+- Restart button to reset the game.
+- 3x3 grid with interactive UI.
+
+**Run the Project:**
+```sh
+cd tic-tac-toe
+npm install
+npm start
+```
+
+---
+
+### 3. Todo App
+**Overview:** A React Native task management application that allows users to add, edit, and remove tasks.
+
+**Technologies Used:**
+- React Native
+- useState Hook
+- FlatList Component
+
+**Features:**
+- Add new tasks via a text input field.
+- Edit existing tasks with an "Edit" button.
+- Delete tasks with a "Remove" button.
+- Uses FlatList for optimized task rendering.
+
+**Run the Project:**
+```sh
+cd todo-app
+npm install
+npx react-native run-android  # For Android
+npx react-native run-ios       # For iOS
+```
+
+---
+
+## How to Run
+1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Coderbyte-JS-Challenges.git
+   git clone https://github.com/yourusername/Coderbyte-JS-Challenges.git
+   cd Coderbyte-JS-Challenges
    ```
 2. Navigate to any project folder and install dependencies:
    ```sh
@@ -66,23 +97,11 @@ This repository contains three beginner-friendly JavaScript projects built using
 
 ---
 
-## 🛠️ Technologies Used
-- **React.js** - Frontend framework
-- **JavaScript (ES6+)** - Programming language
-- **CSS** - Styling
+## Contributing
+Feel free to fork the repository, submit issues, and contribute improvements.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Contributing
-Feel free to fork this repository and submit pull requests if you have improvements or additional features!
-
----
-
-## ⭐ Show Some Love
-If you found this helpful, please ⭐ the repository to support the project! 😊
+## License
+This project is licensed under the MIT License.
 
