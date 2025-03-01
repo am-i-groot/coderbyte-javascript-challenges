@@ -1,0 +1,9 @@
+[submodule "context-api-example"]
+	path = context-api-example
+	url = https://github.com/am-i-groot/context-api-example.git
+[submodule "context-language-toggle"]
+	path = context-language-toggle
+	url = https://github.com/am-i-groot/context-language-toggle.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/am-i-groot/tic-tac-toe.git
