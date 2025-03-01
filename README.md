@@ -82,7 +82,7 @@ npx react-native run-ios       # For iOS
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Coderbyte-JS-Challenges.git
+   git clone https://github.com/yourusername/Coderbyte-JS-Challenges.git](https://github.com/am-i-groot/coderbyte-javascript-challenges.git
    cd Coderbyte-JS-Challenges
    ```
 2. Navigate to any project folder and install dependencies:
