@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.26.9",
+    "expo": "^52.0.37",
+    "glob": "^11.0.1",
+    "inflight": "^1.0.6",
+    "rimraf": "^6.0.1"
+  }
+}
