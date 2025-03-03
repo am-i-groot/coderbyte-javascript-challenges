@@ -2,10 +2,19 @@
 
 This repository contains three beginner-friendly JavaScript projects built using **React.js**:
 
-1. **Context API Example** - Demonstrates global state management using React's Context API.
+1. **Context Language Toggle** - Demonstrates global state management using React's Context API.
 2. **Tic-Tac-Toe Game** - A simple interactive game built with React.
 3. **Todo App** - A CRUD-based task management application.
 
+## 🌐 Live Project Links  
+1️⃣ **[Context Language Toggle](https://your-username.github.io/context-language-toggle)**  
+2️⃣ **[Tic-Tac-Toe Game](https://your-username.github.io/tic-tac-toe)**  
+3️⃣ **[Todo App (Expo)](https://expo.dev/@your-username/todo-app)**  
+
+## 📂 GitHub Repositories  
+- 🔹 [Context Language Toggle Repo](https://github.com/your-username/context-language-toggle)  
+- 🔹 [Tic-Tac-Toe Repo](https://github.com/your-username/tic-tac-toe)  
+- 🔹 [Todo App Repo](https://github.com/your-username/todo-app)  
 ---
 
 ## Projects
