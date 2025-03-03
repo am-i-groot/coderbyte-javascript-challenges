@@ -1,16 +1,29 @@
 # Coderbyte JS Challenges
 
-This repository contains three beginner-friendly JavaScript projects built using **React.js**:
+This repository contains four beginner-friendly JavaScript projects built using **React.js**:
 
 1. **Context API Example** - Demonstrates global state management using React's Context API.
-2. **Tic-Tac-Toe Game** - A simple interactive game built with React.
-3. **Todo App** - A CRUD-based task management application.
+2. **Context Language Toggle** - Demonstrates global state management using React's Context API.
+3. **Tic-Tac-Toe Game** - A simple interactive game built with React.
+4. **Todo App** - A CRUD-based task management application.
+
+## 🌐 Live Project Links  
+1️⃣ **[Context API Example](https://context-api-example-six.vercel.app/)**  
+2️⃣ **[Context Language Toggle](https://context-language-toggle.vercel.app/)**  
+3️⃣ **[Tic-Tac-Toe Game](https://tic-tac-toe-eosin-kappa-76.vercel.app/)**  
+4️⃣ **[Todo App (Expo)](https://expo.dev/@your-username/todo-app)**  
+
+## 📂 GitHub Repositories  
+- 🔹 [Context API Example Repo](https://github.com/am-i-groot/context-api-example)  
+- 🔹 [Context Language Toggle Repo](https://github.com/am-i-groot/context-language-toggle)  
+- 🔹 [Tic-Tac-Toe Repo](https://github.com/am-i-groot/tic-tac-toe)  
+- 🔹 [Todo App Repo](https://github.com/am-i-groot/todo-app)
 
 ---
 
 ## Projects
 
-### 1. Context Language Toggle
+### Context Language Toggle
 **Overview:** A React app that allows users to toggle between different programming languages using the Context API.
 
 **Technologies Used:**
@@ -32,7 +45,7 @@ npm start
 
 ---
 
-### 2. Tic-Tac-Toe Game
+### Tic-Tac-Toe Game
 **Overview:** A classic Tic-Tac-Toe game built using React, allowing two players to take turns making moves.
 
 **Technologies Used:**
@@ -55,7 +68,7 @@ npm start
 
 ---
 
-### 3. Todo App
+### Todo App
 **Overview:** A React Native task management application that allows users to add, edit, and remove tasks.
 
 **Technologies Used:**
